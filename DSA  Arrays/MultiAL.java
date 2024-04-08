@@ -4,6 +4,7 @@ import java.util.ArrayList;
 public class MultiAL {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        //Declares an ArrayList named list that holds ArrayLists of integers (ArrayList<Integer>). This is a 2D ArrayList.
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         //Adding three lists into it
 
